@@ -5,5 +5,16 @@
 }
 body{
      
-    background-image: linear-gradient(to raght,#1b0cf6,#006cea,#0cf4f6)
+    background-image: linear-gradient(to right,#1b0cf6,#006cea,#0cf4f6);
+}
+main{
+  background-color: white;
+  width: 600px;
+  padding: 10px;
+  margin: auto;
+
+}
+
+p {
+  text-align: justify;
 }
