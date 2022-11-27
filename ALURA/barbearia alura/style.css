@@ -5,9 +5,6 @@ body {
 #banner {
     width: 100%;
 }
-.princial{
-    background: #555555;
-}
 
 h1 {
     background:red;
@@ -15,11 +12,12 @@ h1 {
     color:white;
 }
 
-p {
-    text-align: center;
-    font-size: 30px;
-    background:#cccccc;
+.principal{
+    background: #555555;
+    padding: 30px;
+    text-align:center;
 }
+
 #missao {
     font-size:20px;
 }
@@ -31,12 +29,15 @@ em strong {
 }
 .beneficios{
     background: #FFFFFF;
+    padding: 20px;
 }
 h2{
     text-align:center;
 }
 ul {
    display:inline-block; 
+   vertical-align:top;
+   margin-right:20%;
 }
 .imagembeneficios {
     width:50%;
