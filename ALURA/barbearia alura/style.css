@@ -1,6 +1,9 @@
 
 body {
 
+.titulo-principal{
+    padding-left:20px ;
+}
 }
 #banner {
     width: 100%;
