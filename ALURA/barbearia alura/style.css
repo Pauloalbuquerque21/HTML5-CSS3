@@ -6,10 +6,8 @@ body {
     width: 100%;
 }
 
-h1 {
-    background:red;
+.titulo-centralizado {
     text-align: center;
-    color:white;
 }
 
 .principal{
@@ -30,9 +28,6 @@ em strong {
 .beneficios{
     background: #FFFFFF;
     padding: 20px;
-}
-h2{
-    text-align:center;
 }
 ul {
    display:inline-block; 
