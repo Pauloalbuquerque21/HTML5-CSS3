@@ -1,0 +1,531 @@
+[33mcommit d1f91975d328d2b281c87942e2cd8cbe78b62f5b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Jan 12 12:31:56 2023 -0300
+
+    colocamos uma class mais expecidica e usamos a atributo ,
+
+[33mcommit cee4a757d9abc8ee4718b8576c36649074877ae8[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Jan 12 11:29:24 2023 -0300
+
+    Criamos um input type radio, checkbox e uma div para poder organizar melhor as tags label e input type radio
+
+[33mcommit 8a1eaea534460595cade58423ed3da196f8083cc[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Jan 9 10:26:35 2023 -0300
+
+    em processo
+
+[33mcommit 5f599dd5cbdfbe8d846a6a8220462c77586a86dc[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Jan 9 10:12:31 2023 -0300
+
+    em processo
+
+[33mcommit 04cce245bb4f54245a33bddf843927e2c49b359b[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Jan 9 09:38:12 2023 -0300
+
+    em processo com os contatos
+
+[33mcommit 02657d432e972a303a2c3bde7926f83f45f00be6[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Jan 9 09:13:19 2023 -0300
+
+    em processo com os contatos
+
+[33mcommit 6ac115488adb4714cc0314de73d31a25eb8a5a08[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jan 6 10:53:52 2023 -0300
+
+    em processo
+
+[33mcommit 8007f784d660e429c2e52ea3497cb4f423d81e11[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jan 6 10:40:22 2023 -0300
+
+    em processo
+
+[33mcommit c2bccece8ede4916ce07a7543918ba7d0a020ce0[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jan 6 10:22:38 2023 -0300
+
+    em processo
+
+[33mcommit c1b61f022a11f3cf8435e282429c0e0de8a007aa[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jan 6 09:52:46 2023 -0300
+
+    iniciando parte 3
+
+[33mcommit 5be20e1af656c7ea5ef9ad1f651c39f8de3c4c50[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jan 6 09:48:02 2023 -0300
+
+    em processo
+
+[33mcommit 498c66cf4b2091127c32e220f6c5b7352c0ef646[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Jan 5 15:59:16 2023 -0300
+
+    em processo
+
+[33mcommit db03a9d3d84ae941327ba2a950a8f71dae562c62[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Jan 5 15:05:25 2023 -0300
+
+    em processo
+
+[33mcommit 1942c86d81a57ecfee44e6d0a255c6bf8623a214[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Jan 4 18:27:23 2023 -0300
+
+    terminando projeto
+
+[33mcommit 01004afaf51c1d6d26706f8924f398f18001d464[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Jan 3 11:23:39 2023 -0300
+
+    em processo
+
+[33mcommit 3670f32aedae21c4310dc7104066ed5e7a9285ca[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Jan 2 10:43:14 2023 -0300
+
+    usando o css e o pedding e margin
+
+[33mcommit f0c4bebaf4e09c4aa9c4baf61b0c582b907654e1[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Dec 30 07:46:36 2022 -0300
+
+    em processo
+
+[33mcommit a2c1684476cc0b381351d83ea238f20b3d0a0cbc[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Dec 30 07:16:13 2022 -0300
+
+    em processo
+
+[33mcommit cb64c74ae192da8b3d2b6426e620f8d0bb7bfda7[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Dec 27 23:26:10 2022 -0300
+
+    em processo
+
+[33mcommit 7bccc098d3497d53ef7da565097fa49b4acd4353[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Dec 23 07:39:46 2022 -0300
+
+    em processo
+
+[33mcommit ae30a219e1e8db4653ff648561e79ede3d2afe0e[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Dec 22 07:58:06 2022 -0300
+
+    usando a caixa
+
+[33mcommit 030a8fca35c02beecdd60822d29fa2deab798013[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Dec 21 08:51:42 2022 -0300
+
+    teste
+
+[33mcommit 4e7f802f944c1034a0fed519c39a4962478b0dd0[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Dec 20 08:55:56 2022 -0300
+
+    usando o reset.css
+
+[33mcommit b322228e31e39820097c7c996553e043900c391b[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Dec 20 08:44:02 2022 -0300
+
+    em processo
+
+[33mcommit c6395a5c0206cc8ff5e2ac857cdd657413ad51db[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Dec 19 07:41:47 2022 -0300
+
+    em processo
+
+[33mcommit e504964b3fa25fb919ea2cf2b4f64ccf822ed9a8[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Dec 8 09:48:18 2022 -0300
+
+    em processo
+
+[33mcommit 7db959c75076d288c6fcd921cfa740121b22c61f[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Dec 8 07:18:40 2022 -0300
+
+    arrumar a lista
+
+[33mcommit e48bf0bd4df50cc1cdee16045a68be4f0cb26024[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Dec 6 08:40:24 2022 -0300
+
+    em processo
+
+[33mcommit c4b38d0719d72ae869a51769b8474d072915c1fb[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Dec 6 08:37:10 2022 -0300
+
+    em processo
+
+[33mcommit c002fafa91fa5fc4e399ce3975e07e6c9807500b[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Dec 6 08:09:46 2022 -0300
+
+    nova pagina
+
+[33mcommit e52fa94928238cf363c7577ab72d51afd6aae270[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Nov 30 08:07:15 2022 -0300
+
+    em processo
+
+[33mcommit af97290e1b572bf6e3b07fa62888c4381fb8854b[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Nov 30 07:56:13 2022 -0300
+
+    pagina produtos
+
+[33mcommit 52df13e5ddb58f25f6c99041936d7f790a5bb35f[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Nov 28 07:38:14 2022 -0300
+
+    em processo
+
+[33mcommit d1cdc7a698874e88215a7ef6b59fbad3b59bc351[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Nov 28 07:34:25 2022 -0300
+
+    em processo
+
+[33mcommit b13493f6e79fc5597e11f34dec6c72d8bddc6aec[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Nov 28 07:31:09 2022 -0300
+
+    cabeçalho
+
+[33mcommit 040cec11bc97259c7f6315550bd90e6d104e5c06[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sun Nov 27 08:59:43 2022 -0300
+
+    corrigindo algumas coisas
+
+[33mcommit 01a050a8324c06627643bdc95f42e5d9922f230e[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sun Nov 27 08:57:39 2022 -0300
+
+    finalizado
+
+[33mcommit cd77114f8be009fbd1ce9ce5b36a32eb08a5e93b[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sun Nov 27 08:51:34 2022 -0300
+
+    em processo
+
+[33mcommit 62ee8984aeee2a7708df2f34fb1ba49847a8b9ce[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sun Nov 27 08:19:40 2022 -0300
+
+    inline e block
+
+[33mcommit 78a4a0c003cf639a80a59de22e095d09f954afa0[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Nov 24 08:39:47 2022 -0300
+
+    divisões de conteúdo
+
+[33mcommit 33a2644ee7974cb0435eef41b49873674332bb74[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Nov 23 08:04:49 2022 -0300
+
+    trabalhando com listas
+
+[33mcommit 0b96204f969198d5c3f5e19fcea4603291390cf1[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Nov 22 08:19:16 2022 -0300
+
+    terminei
+
+[33mcommit 06c7fd52d3f21b14efc66b0d0f7170e9617222a0[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Nov 22 07:31:28 2022 -0300
+
+    css para imagem
+
+[33mcommit ee7bc90f82ac4fc3fa84bb2cc98c616b1d50ffef[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Nov 21 08:34:51 2022 -0300
+
+    em processo[
+
+[33mcommit 01054242982e94be8347f86b684197bfe3d97a9a[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Nov 21 08:11:37 2022 -0300
+
+    iniciando o esilizando imagens
+
+[33mcommit 71c76ff99dd78217a6e93d53ffc1d5ab260c1b99[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Nov 21 08:02:29 2022 -0300
+
+    em processo
+
+[33mcommit 416a69fe0521f067716fe7584e11c258228da4c2[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Nov 17 09:22:05 2022 -0300
+
+    terminei
+
+[33mcommit 28cf24d7886c800495f554e839c307c54d3d5c94[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Nov 17 09:13:36 2022 -0300
+
+    em processo
+
+[33mcommit 4218532d6b6980311e3806b453e5de2590c52760[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Nov 17 09:13:11 2022 -0300
+
+    iniciando mudando cor
+
+[33mcommit 459f6ebb92fba937412128be2ae3a28280b5b4de[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Nov 15 20:20:49 2022 -0300
+
+    em processo
+
+[33mcommit cd9a8e4dec940dd1eecce260dee952cc1bba0b58[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Nov 15 19:50:10 2022 -0300
+
+    em processo
+
+[33mcommit d648684e085652ab1cf3f9fe20881ecd12526031[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Nov 15 19:38:04 2022 -0300
+
+    em processo
+
+[33mcommit 883060616cff13fd551ca8cccacc1c74302583e8[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Nov 15 19:18:51 2022 -0300
+
+    començando o css
+
+[33mcommit 0bbccc636425e45ee35c530080973cb655108803[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sat Nov 12 17:02:20 2022 -0300
+
+    terminei a aula estrutura básica
+
+[33mcommit dc4d0b157a00148345af4ab467e1c3a4cc768771[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sat Nov 12 16:44:31 2022 -0300
+
+    em processo
+
+[33mcommit e437741e0aba51a7a589b76247714827c02b5979[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sat Nov 12 16:20:23 2022 -0300
+
+    em processo"
+
+[33mcommit 944d864cef763f735b5d85c06641a96011053d69[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sat Nov 12 16:12:04 2022 -0300
+
+    em processo
+
+[33mcommit c7b8345fcfbab6a7801e5cf47f7241930af3c91b[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Nov 9 07:37:32 2022 -0300
+
+    barbearia alura
+
+[33mcommit 5659ea10261f545dcf72806f2c517bd40f9fb75b[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Nov 9 07:27:30 2022 -0300
+
+    em processo
+
+[33mcommit a1ab3cda950ff6998fc056d3dc045b494087745a[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Nov 8 08:05:03 2022 -0300
+
+    Update stule.css
+
+[33mcommit e3dc9cd3b9de0d50506eed2c92d71eeae80add53[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Oct 11 08:48:31 2022 -0300
+
+    em processo
+
+[33mcommit 63663fedb91394fe730784acd7605bb2c5ae6228[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Oct 11 08:16:43 2022 -0300
+
+    iniciando a aula criando um exemplo real
+
+[33mcommit 2a0d18ecc7af25a686c424cd5eacc9d47932d365[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sun Oct 2 14:10:11 2022 -0300
+
+    termiei processo
+
+[33mcommit 22f1d9642cfe1befba58a4f708932923a280b176[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sun Oct 2 13:54:39 2022 -0300
+
+     em Processo
+
+[33mcommit 4f0f38a61770386028c5e9832320bf0b4c8ae21f[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Sep 9 20:43:59 2022 -0300
+
+    em processo
+
+[33mcommit c8fbb7bc4e5da525a2d7209167c98e3fd7bb123d[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Sep 7 19:39:34 2022 -0300
+
+    iniciando o exercicio 16
+
+[33mcommit 452105023acf1e918e92af8e11b4bc097891155a[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Aug 8 09:30:40 2022 -0300
+
+     em processo
+
+[33mcommit ab61187ec9d97d320125f750449f44de80f13cac[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Aug 8 09:23:55 2022 -0300
+
+    em processo
+
+[33mcommit 98c937be3e4606e68eee901a9e9b99a556209bab[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Aug 8 09:22:37 2022 -0300
+
+    iniciando aula estilos ccs externos
+
+[33mcommit 4ad39f041b2062b4bd85ca9df5da0ccb80e931cd[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sat Aug 6 08:52:03 2022 -0300
+
+    finalizei o vídeo
+
+[33mcommit 1d16c070743a5ed8fb2679c682ff856a609a37ea[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sat Aug 6 08:22:01 2022 -0300
+
+    em processo
+
+[33mcommit 4ad3caac302a2658bd4674aa88431dd69b768d50[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sat Aug 6 08:11:28 2022 -0300
+
+    em processo
+
+[33mcommit 61d72247608c2d959926af9ee8e4b2f0378c37e0[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Sat Aug 6 08:05:53 2022 -0300
+
+    iniciando estilo css interno
+
+[33mcommit 2ff2874e064d9bcb659bf5f7ccf86dfbfb4609f6[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Aug 3 08:38:33 2022 -0300
+
+    terminei o video38
+
+[33mcommit 68201aba9f20dfb421442594365758d71b52b152[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Wed Aug 3 08:17:05 2022 -0300
+
+    em processo
+
+[33mcommit 3435231acd94ed8de861a921a7421956f23a63df[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jul 29 08:22:33 2022 -0300
+
+    Iniciando CSS
+
+[33mcommit 2cb96b254e05a1c73bcd2c0c657af2e06ad87b68[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Jul 28 08:56:15 2022 -0300
+
+    finish
+
+[33mcommit b59dc967d237b6bb20552450aca293573385864e[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Jul 28 08:51:56 2022 -0300
+
+     em processo
+
+[33mcommit 0c3b99c367d8c0db3f6502a46bf0df62a191e3bb[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Jul 28 08:49:26 2022 -0300
+
+    em prcesso
+
+[33mcommit 1e425fde47ea9ad799bf623a3ad581ac01c91664[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Thu Jul 28 08:32:14 2022 -0300
+
+    em processo
+
+[33mcommit 13f7f47aaf3bb114188190913cc14745bb57ccf4[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Jul 26 09:23:37 2022 -0300
+
+     em processo
+
+[33mcommit d1d65b7ad7f3333768fde06d4f5d312c7fa6103f[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Tue Jul 26 09:08:02 2022 -0300
+
+    agora a parte JS
+
+[33mcommit 95fb103643f84a0a72dfc6bf1a88d5f60b55b3fa[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Jul 25 09:49:54 2022 -0300
+
+    Em processo
+
+[33mcommit 70481a581723fb7e983f92238efd386599d29752[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Jul 25 09:28:09 2022 -0300
+
+    em processo
+
+[33mcommit e5563161b5f980841df04cc0447e709154353a39[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Mon Jul 25 09:16:25 2022 -0300
+
+    em processo
+
+[33mcommit f40eaa7f9b713cbc775f347719e2b9c2d0dda158[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jul 22 08:04:47 2022 -0300
+
+    em processo
+
+[33mcommit a5216fb2878fe22e55512215692169d02d86adb3[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jul 22 07:42:55 2022 -0300
+
+    em processo
+
+[33mcommit ff253f92e94d82d74a328330647728ae694eb961[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jul 22 07:37:30 2022 -0300
+
+    em processo
+
+[33mcommit 78e421b48a948acf7dae115b9c086bac7af16ea9[m
+Author: Paulo Vitor Albuquerque Silva <paulo.vitor21@hotmail.com>
+Date:   Fri Jul 22 07:17:28 202
