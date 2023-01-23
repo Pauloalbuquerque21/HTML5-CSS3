@@ -117,3 +117,16 @@ form label,form p {
     transform:scale(1.2);
     transform:rotate(70deg);
 }
+.tabela{
+    margin:20px 0 40px;
+}
+.tabela thead{
+    background:#555555;
+    color:white;
+    font-weight:bold;
+
+}
+.tabela td,th{
+    border:1px solid #000000;
+    padding:8px 15px;
+}
